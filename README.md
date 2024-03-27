@@ -79,7 +79,8 @@ Step 10: A new tab will appear with the default contents of the JSP page. In tha
 
 
 Step 11: Save the project and build it.
-![Uploading image.png…]()
+![image](https://github.com/DhareeneRK/Ex-02_RESTful_Web_Services/assets/119434052/9c4ef959-3854-4817-9b8b-25bf54b6bf20)
+
 
 Step 12: Run the JSP file and you should see the output in a new browser window.
  
